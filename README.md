@@ -1,76 +1,152 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Daniel%20Flores&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55&descColor=58a6ff&animation=fadeIn" width="100%"/>
+<!-- HEADER CON PARTICULAS -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=Daniel%20Flores&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer&descSize=18&descAlignY=75&descColor=8b949e&stroke=58a6ff" width="100%"/>
+
+<br/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%7C+Problem+Solver;Building+scalable+web+applications;Passionate+about+clean+code+%26+innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Full+Stack+Developer+%7C+Problem+Solver;Architecting+Scalable+Web+Solutions;Clean+Code+%7C+Best+Practices+%7C+Innovation" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=danyflores10&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
+<img src="https://komarev.com/ghpvc/?username=danyflores10&label=PROFILE+VIEWS&color=58a6ff&style=flat-square&labelColor=0d1117" alt="Profile Views"/>
+&nbsp;&nbsp;
 <a href="https://github.com/danyflores10?tab=followers">
-  <img src="https://img.shields.io/github/followers/danyflores10?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/danyflores10?label=Followers&style=flat-square&color=58a6ff&labelColor=0d1117&logo=github" alt="Followers"/>
 </a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/stars/danyflores10?label=Stars&style=flat-square&color=58a6ff&labelColor=0d1117&logo=github" alt="Stars"/>
 
 </div>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> &nbsp;About Me
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-```yaml
-name: Daniel Flores
-role: Full Stack Developer
-location: Developing from anywhere
-available_for: Freelance & Collaboration
+<br/>
 
-currently:
-  working_on: "Building modern web applications"
-  learning: "Cloud Architecture & DevOps"
-  goal: "Contributing to impactful open-source projects"
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-fun_fact: "I turn coffee into code and ideas into products"
+## <img src="https://img.shields.io/badge/-%E2%9C%A6-58a6ff?style=flat-square&labelColor=0d1117" height="22"/> &nbsp;About Me
+
+<table>
+<tr>
+<td width="50%">
+
+```js
+const daniel = {
+    name: "Daniel Flores",
+    role: "Full Stack Developer",
+    available: true,
+    
+    skills: {
+        frontend: ["React", "Angular", "Vue", "Next.js"],
+        backend:  ["Node.js", "Python", "PHP", "Java"],
+        database: ["MongoDB", "PostgreSQL", "MySQL"],
+        cloud:    ["AWS", "Docker", "Firebase"]
+    },
+    
+    currentFocus: "Building scalable web apps",
+    goal: "Impact through open-source"
+};
 ```
 
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyflores10&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="100%" alt="Top Languages"/>
+
+</td>
+</tr>
+</table>
+
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" /> &nbsp;Tech Stack
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-%E2%9C%A6-58a6ff?style=flat-square&labelColor=0d1117" height="22"/> &nbsp;Tech Stack
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass&perline=10" />
+<table>
+<tr>
+<td align="center" width="50%">
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,laravel,java,spring&perline=8" />
+<img src="https://img.shields.io/badge/FRONTEND-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Frontend"/><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,vue,tailwind,bootstrap,sass&perline=6" />
 
-### Database & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,docker,kubernetes,redis&perline=8" />
+</td>
+<td align="center" width="50%">
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,nginx,vercel&perline=8" />
+<img src="https://img.shields.io/badge/BACKEND-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Backend"/><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,laravel,java,spring&perline=4" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/DATABASE%20%26%20CLOUD-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Database & Cloud"/><br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,docker&perline=3" />
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/TOOLS%20%26%20PLATFORMS-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Tools"/><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,nginx,vercel&perline=4" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> &nbsp;GitHub Analytics
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- GITHUB ANALYTICS -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-%E2%9C%A6-58a6ff?style=flat-square&labelColor=0d1117" height="22"/> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danyflores10&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
+
+  <a href="https://github.com/danyflores10">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=danyflores10&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+  </a>
   &nbsp;
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=danyflores10&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+  <a href="https://github.com/danyflores10">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danyflores10&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+
 </div>
 
 <br/>
 
+<!-- TROPHIES -->
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyflores10&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=danyflores10&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" alt="Trophies"/>
+  </a>
 </div>
 
 <br/>
@@ -82,12 +158,21 @@ fun_fact: "I turn coffee into code and ideas into products"
 
 <br/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" /> &nbsp;Connect with Me
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- CONNECT -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-%E2%9C%A6-58a6ff?style=flat-square&labelColor=0d1117" height="22"/> &nbsp;Connect with Me
 
 <div align="center">
 
 <a href="https://github.com/danyflores10" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/" target="_blank">
@@ -95,11 +180,11 @@ fun_fact: "I turn coffee into code and ideas into products"
 </a>
 &nbsp;
 <a href="mailto:" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://twitter.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 &nbsp;
 <a href="https://dev.to/" target="_blank">
@@ -121,11 +206,11 @@ fun_fact: "I turn coffee into code and ideas into products"
 
 <br/>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%"/>
+<!-- FOOTER CON PARTICULAS -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:58a6ff&height=150&section=footer&stroke=58a6ff" width="100%"/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-58a6ff?style=for-the-badge&logo=markdown&logoColor=white" alt="Made with Markdown"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Powered%20by-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Powered by GitHub"/>
+  <img src="https://img.shields.io/badge/Crafted%20with%20precision-0d1117?style=flat-square&logo=github&logoColor=58a6ff" alt="Crafted"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%C2%A9%202026%20Daniel%20Flores-0d1117?style=flat-square&logoColor=58a6ff" alt="Copyright"/>
 </div>
