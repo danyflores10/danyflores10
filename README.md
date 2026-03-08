@@ -57,9 +57,7 @@
     <img width="390" src="https://streak-stats.demolab.com?user=danyflores10&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=1a1b27&background=0d1117" alt="GitHub Streak"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/danyflores10">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=danyflores10&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub Stats"/>
-  </a>
+  
 
 </div>
 
