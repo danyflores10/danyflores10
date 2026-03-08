@@ -18,37 +18,7 @@
 
 </div>
 
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/%20-ABOUT%20ME-58a6ff?style=for-the-badge&labelColor=0d1117&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM1OGE2ZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjAgMjF2LTJhNCA0IDAgMCAwLTQtNEg4YTQgNCAwIDAgMC00IDR2MiI+PC9wYXRoPjxjaXJjbGUgY3g9IjEyIiBjeT0iNyIgcj0iNCI+PC9jaXJjbGU+PC9zdmc+" height="30"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-```js
-const daniel = {
-    name: "Daniel Flores",
-    role: "Full Stack Developer",
-    available: true,
-
-    skills: {
-        frontend: ["React", "Angular", "Vue", "Next.js"],
-        backend:  ["Node.js", "Python", "PHP", "Java"],
-        database: ["MongoDB", "PostgreSQL", "MySQL"],
-        cloud:    ["AWS", "Docker", "Firebase"]
-    },
-
-    currentFocus: "Building scalable web applications",
-    goal: "Impact through open-source contributions"
-};
-```
-
-</div>
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
