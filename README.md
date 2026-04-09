@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════ HEADER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=230&section=header&text=Daniel%20Flores&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=Full%20Stack%20Developer&descSize=20&descAlignY=52&descColor=ffffffcc&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=230&section=header&text=Daniel%20Flores&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=%DEVCODE%20Developer&descSize=20&descAlignY=52&descColor=ffffffcc&animation=twinkling" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
