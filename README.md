@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,50:0c2d6b,100:1f6feb&text=Daniel%20Flores&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=22&descAlignY=57&animation=fadeIn" width="100%" alt="Daniel Flores — Full Stack Developer"/><br/>
 <!-- ID CARD (lanyard 3D renderizado con React Bits + Three.js) -->
-<a href="https://github.com/danyflores10"><img src="./assets/lanyard.webp" width="240" alt="Daniel Flores — Developer ID"/></a>
+<a href="https://github.com/danyflores10"><img src="./assets/lanyard-card.webp" width="240" alt="Daniel Flores — Developer ID"/></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Full+Stack+Developer;Laravel+%C2%B7+Next.js+%C2%B7+Django;Architecting+Scalable+Solutions;Clean+Code+%26+Best+Practices;From+Frontend+to+Deployment" alt="Typing SVG"/>
 
@@ -100,9 +100,9 @@
 <!-- ═══════════════════════════════ SNAKE ═══════════════════════════════ -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danyflores10/danyflores10/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danyflores10/danyflores10/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/danyflores10/danyflores10/output/github-snake-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danyflores10/danyflores10/output/github-snake-dark.svg?v=2"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danyflores10/danyflores10/output/github-snake.svg?v=2"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/danyflores10/danyflores10/output/github-snake.svg?v=2" width="100%"/>
   </picture>
 </div>
 
